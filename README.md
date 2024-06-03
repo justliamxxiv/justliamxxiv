@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @justliamxxiv
-- 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning java, motok and c++
-- 💞️ I’m looking to collaborate on front-end web dev projects or gigs
-- 📫 How to reach me {check public profile}
-- 😄 Pronouns: he/him/his
+- 👋 Hi, I’m Afolabi William.
+- 👀 I’m interested in front-end web development.
+- 🌱 I’m currently learning java, motok and c++.
+- 💞️ I’m looking to collaborate on front-end web dev projects or gigs.
+- 📫 How to reach me {check public profile}.
+- 😄 Pronouns: he/him/his.
 - ⚡ Fun fact: i play call of duty mobile. i'm a noob though.
 
 <!---
