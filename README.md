@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Afolabi William.
-- 👀 I’m interested in front-end web development.
+- 👀 I’m a full-stack developer.
 - 🌱 I’m currently learning java, motoko and c++.
-- 💞️ I’m looking to collaborate on front-end web dev projects or gigs.
+- 💞️ I’m looking to collaborate on full-stack projects or gigs.
 - 📫 How to reach me {check public profile}.
 - 😄 Pronouns: he/him/his.
 - ⚡ Fun fact: i like to read.
